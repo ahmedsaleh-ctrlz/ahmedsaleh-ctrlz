@@ -25,7 +25,6 @@ and enforcing business rules inside the architecture, not just controllers.
 - Secure API Design
 - Claims-based & Policy-based Authorization
 - Ownership-Based Access Control
-- Optimistic Concurrency (RowVersion)
 - SQL-first database thinking
 - Avoiding unnecessary abstractions
 
